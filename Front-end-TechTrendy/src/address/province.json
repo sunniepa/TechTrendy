@@ -1,0 +1,317 @@
+[
+  {
+    "Mã": "01",
+    "Tên": "Thành phố Hà Nội",
+    "Cấp": "Thành phố Trung ương"
+  },
+  {
+    "Mã": "02",
+    "Tên": "Tỉnh Hà Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "04",
+    "Tên": "Tỉnh Cao Bằng",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "06",
+    "Tên": "Tỉnh Bắc Kạn",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "08",
+    "Tên": "Tỉnh Tuyên Quang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "10",
+    "Tên": "Tỉnh Lào Cai",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "11",
+    "Tên": "Tỉnh Điện Biên",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "12",
+    "Tên": "Tỉnh Lai Châu",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "14",
+    "Tên": "Tỉnh Sơn La",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "15",
+    "Tên": "Tỉnh Yên Bái",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "17",
+    "Tên": "Tỉnh Hoà Bình",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "19",
+    "Tên": "Tỉnh Thái Nguyên",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "20",
+    "Tên": "Tỉnh Lạng Sơn",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "22",
+    "Tên": "Tỉnh Quảng Ninh",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "24",
+    "Tên": "Tỉnh Bắc Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "25",
+    "Tên": "Tỉnh Phú Thọ",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "26",
+    "Tên": "Tỉnh Vĩnh Phúc",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "27",
+    "Tên": "Tỉnh Bắc Ninh",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "30",
+    "Tên": "Tỉnh Hải Dương",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "31",
+    "Tên": "Thành phố Hải Phòng",
+    "Cấp": "Thành phố Trung ương"
+  },
+  {
+    "Mã": "33",
+    "Tên": "Tỉnh Hưng Yên",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "34",
+    "Tên": "Tỉnh Thái Bình",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "35",
+    "Tên": "Tỉnh Hà Nam",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "36",
+    "Tên": "Tỉnh Nam Định",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "37",
+    "Tên": "Tỉnh Ninh Bình",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "38",
+    "Tên": "Tỉnh Thanh Hóa",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "40",
+    "Tên": "Tỉnh Nghệ An",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "42",
+    "Tên": "Tỉnh Hà Tĩnh",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "44",
+    "Tên": "Tỉnh Quảng Bình",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "45",
+    "Tên": "Tỉnh Quảng Trị",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "46",
+    "Tên": "Tỉnh Thừa Thiên Huế",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "48",
+    "Tên": "Thành phố Đà Nẵng",
+    "Cấp": "Thành phố Trung ương"
+  },
+  {
+    "Mã": "49",
+    "Tên": "Tỉnh Quảng Nam",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "51",
+    "Tên": "Tỉnh Quảng Ngãi",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "52",
+    "Tên": "Tỉnh Bình Định",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "54",
+    "Tên": "Tỉnh Phú Yên",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "56",
+    "Tên": "Tỉnh Khánh Hòa",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "58",
+    "Tên": "Tỉnh Ninh Thuận",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "60",
+    "Tên": "Tỉnh Bình Thuận",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "62",
+    "Tên": "Tỉnh Kon Tum",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "64",
+    "Tên": "Tỉnh Gia Lai",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "66",
+    "Tên": "Tỉnh Đắk Lắk",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "67",
+    "Tên": "Tỉnh Đắk Nông",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "68",
+    "Tên": "Tỉnh Lâm Đồng",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "70",
+    "Tên": "Tỉnh Bình Phước",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "72",
+    "Tên": "Tỉnh Tây Ninh",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "74",
+    "Tên": "Tỉnh Bình Dương",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "75",
+    "Tên": "Tỉnh Đồng Nai",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "77",
+    "Tên": "Tỉnh Bà Rịa - Vũng Tàu",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "79",
+    "Tên": "Thành phố Hồ Chí Minh",
+    "Cấp": "Thành phố Trung ương"
+  },
+  {
+    "Mã": "80",
+    "Tên": "Tỉnh Long An",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "82",
+    "Tên": "Tỉnh Tiền Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "83",
+    "Tên": "Tỉnh Bến Tre",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "84",
+    "Tên": "Tỉnh Trà Vinh",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "86",
+    "Tên": "Tỉnh Vĩnh Long",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "87",
+    "Tên": "Tỉnh Đồng Tháp",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "89",
+    "Tên": "Tỉnh An Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "91",
+    "Tên": "Tỉnh Kiên Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "92",
+    "Tên": "Thành phố Cần Thơ",
+    "Cấp": "Thành phố Trung ương"
+  },
+  {
+    "Mã": "93",
+    "Tên": "Tỉnh Hậu Giang",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "94",
+    "Tên": "Tỉnh Sóc Trăng",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "95",
+    "Tên": "Tỉnh Bạc Liêu",
+    "Cấp": "Tỉnh"
+  },
+  {
+    "Mã": "96",
+    "Tên": "Tỉnh Cà Mau",
+    "Cấp": "Tỉnh"
+  }
+]
